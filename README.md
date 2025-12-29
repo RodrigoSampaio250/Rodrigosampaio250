@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Rodrigo Sampaio
+# Rodrigo Sampaio
 
 **Desenvolvedor Front-End | Estágio em Tecnologia**
 
@@ -30,7 +30,7 @@ Sou o Rodrigo Sampaio, estudante no último período de Ciência da Computação
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -50,7 +50,7 @@ Sou o Rodrigo Sampaio, estudante no último período de Ciência da Computação
 <br>
 <br>
 
-## 🧠 Experiência
+## Experiência
 
 ### Desenvolvedor Front-End (Estágio) | DNC
 
