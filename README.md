@@ -1,6 +1,6 @@
 # Rodrigo Sampaio
 
-**Desenvolvedor Front-End | Estágio em Tecnologia**
+### **Desenvolvedor Front-End | Estágio em Tecnologia**
 
 Sou o Rodrigo Sampaio, estudante no último período de Ciência da Computação pela UTFPR. Tenho experiência em desenvolvimento front-end com JavaScript, React e Tailwind, além de prática trabalhando com protótipos no Figma para construir interfaces responsivas e alinhadas com boas práticas de usabilidade. Atualmente, foco em evoluir consistência técnica, portfólio e ritmo de entrega.
 
